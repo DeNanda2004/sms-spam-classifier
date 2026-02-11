@@ -1,0 +1,6 @@
+
+{
+  "name": "Safe Inbox",
+  "description": "An advanced AI-powered email analysis system that uses Gemini to detect spam, phishing, and promotional content with deep reasoning and risk scoring.",
+  "requestFramePermissions": []
+}
